@@ -1,0 +1,8 @@
+profiles: dev
+
+
+server:
+  port: 8089
+
+logging:
+  level: debug
